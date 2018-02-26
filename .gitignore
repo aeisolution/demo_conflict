@@ -1,0 +1,10 @@
+# Visual Studio Directories
+bin/
+
+# Node.js
+node_modules/
+
+#log files
+*.log
+
+
