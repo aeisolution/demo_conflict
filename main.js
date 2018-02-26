@@ -2,7 +2,10 @@
 console.log("main.js loaded!");
 
 // TODO: Create a Loop
-for(var i=0; i<5; i++) {
+<<<<<<< HEAD
+var i = 0;
+while( i< 5 ) {
     console.log("i: " + i);
+    i++;
 }
 console.log("Loop ended");
